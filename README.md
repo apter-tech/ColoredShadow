@@ -11,6 +11,15 @@ Android | iOS
 :--: | :--:
 <img src="/screenshots/android.png" width="300" /> | <img src="/screenshots/ios.png" width="300" />
 
+### SDK versions
+- Android: minSdkVersion `28`, targetSdkVersion `33`
+- iOS: Minimum Deployments, Deployment Target `14.1`
+
+### IDEs
+
+- Android Studio Flamingo | 2022.2.1 Patch 2
+  with [KMM plugin](https://plugins.jetbrains.com/plugin/14936-kotlin-multiplatform-mobile)
+- Xcode 14.3
 
 ### Key Features:
 
